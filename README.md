@@ -11,5 +11,6 @@ RPC utilise le modèle client-serveur. Le programme demandeur est un client et l
 Ce protocole est utile lorsque le processus ne connaît pas les détails du réseau de l’autre ordinateur et que le service est demandé dans un autre ordinateur. On parle également d’appel de sous-programme ou d’appel de fonction.
 Il s’agit d’un modèle client-serveur. Les arguments sont transmis à une procédure à distance et l’appel est envoyé au serveur par le client. RPC peut être utilisé sous Windows, Apple et UNIX.
 
-![image](https://github.com/yamitxc/RPCJAVA/assets/110922220/daee5675-c365-4868-a093-eb563c5718fb)
+![image](https://github.com/yamitxc/RPCJAVA/assets/110922220/022be59f-43eb-430a-b153-35f0353b1b4f)
+
 
