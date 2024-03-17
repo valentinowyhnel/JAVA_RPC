@@ -1,2 +1,2 @@
-# RPCJAVA
+# JAVA_RPC
 client/server
