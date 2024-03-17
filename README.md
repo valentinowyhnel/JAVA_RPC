@@ -30,3 +30,11 @@ Voila les différentes étapes que l'on peut voir sur ce schéma :
 
 7. Le processus est alors exécuté dans le sens inverse : génération d’un message prêt à l’envoi conformément au protocole RPC, échange de messages entre le serveur et le client, puis transport de la valeur de retour au code client en attente. L’application est poursuivie sur l’ordinateur d’origine.
 
+# pour plus d'informations sur le sujet : 
+
+Java Socket Programming Client Server Messenger
+- https://www.youtube.com/watch?v=gchR3DpY-8Q&list=RDCMUCJnCCO9QVAP9saemgZ9tpoQ&start_radio=1&t=1s
+
+Client Server Architecture
+https://www.youtube.com/watch?v=bWKbdPAovFA&list=PLoW9ZoLJX39Xcdaa4Dn5WLREHblolbji4  
+
