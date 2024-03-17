@@ -29,6 +29,8 @@ public class RMIServer implements RMIInterface {
         } catch (Exception e) {
             System.out.println("ERROR: Failed to register the server object.");
             e.printStackTrace();
+            
+        //Just add a sendMessage() method to your interface//
         }
     }
 }
